@@ -56,3 +56,33 @@ theme:
 <!-- pause -->
 
 ### Ze Stewarda w DevOpsa 👉 *https://www.youtube.com/@ZmieniamNaIT*
+
+<!-- end_slide -->
+
+# Dlaczego AI nie jest lekiem na całe zło?
+
+<!-- column_layout: [1, 1] -->
+<!-- column: 0 -->
+
+<!-- pause -->
+
+![image:width:100%](./images/autoland.jpeg)
+
+<!-- pause -->
+
+## Airbus A320
+
+<!-- pause -->
+
+## W służbie komercyjnej od 1988
+
+<!-- pause -->
+
+## Potrafi sam lądować
+
+<!-- pause -->
+
+<!-- column: 1 -->
+![image:width:100%](./images/hbr_when_and_how_to_use_ai.png)
+
+<!-- end_slide -->
