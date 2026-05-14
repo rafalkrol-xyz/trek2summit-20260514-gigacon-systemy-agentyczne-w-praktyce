@@ -197,6 +197,30 @@ theme:
 > Źródło: https://aws.amazon.com/blogs/machine-learning/how-miro-uses-amazon-bedrock-to-boost-software-bug-routing-accuracy-and-improve-time-to-resolution-from-days-to-hours/
 
 <!-- end_slide -->
+
+# Memy
+
+<!-- pause -->
+1. AI jest faktem
+
+![image:width:20%](./images/argue-with-ai-meme.jpg)
+<!-- pause -->
+
+<!-- column_layout: [1, 1] -->
+<!-- column: 0 -->
+<!-- pause -->
+2. Inwestorzy chcą AI wszędzie...
+
+![image:width:100%](./images/sell-me-this-pen.jpg)
+
+<!-- column: 1 -->
+<!-- pause -->
+3. ...klienci niekoniecznie
+
+![image:width:100%](./images/improve-product-ai-meme.jpg)
+
+
+<!-- end_slide -->
 <!-- end_slide -->
 
 <!-- column_layout: [2, 2] -->
