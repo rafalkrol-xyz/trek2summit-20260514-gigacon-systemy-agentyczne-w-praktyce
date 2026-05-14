@@ -86,3 +86,22 @@ theme:
 ![image:width:100%](./images/hbr_when_and_how_to_use_ai.png)
 
 <!-- end_slide -->
+<!-- end_slide -->
+
+<!-- column_layout: [2, 2] -->
+
+<!-- column: 0 -->
+<!-- jump_to_middle -->
+
+# Dziękuję!
+
+## 🌐 www.trek2summit.com
+## 🌐 linkedin.com/company/trek2summit
+## 🤝 linkedin.com/in/rafal-krol
+### 🛠️ kiro.dev
+### 🛠️ github.com/rafalkrol-xyz/mAI-consigliere
+
+# Pytania?
+
+<!-- column: 1 -->
+![image:width:100%](./images/coffee_talk.jpeg)
