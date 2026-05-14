@@ -113,6 +113,43 @@ theme:
 - Wynik musi być deterministyczny, np. naliczanie podatku, dawkowanie leku
 
 <!-- end_slide -->
+
+# Czym jest agent AI i co się stało z przedrostkiem Gen?
+
+<!-- column_layout: [1, 1] -->
+<!-- column: 0 -->
+<!-- pause -->
+![image:width:100%](./images/ai_onion.png)
+<!-- column: 1 -->
+<!-- pause -->
+![image:width:100%](./images/agentic_ai.png)
+<!-- reset_layout -->
+<!-- pause -->
+## Zmiana obietnicy biznesowej od *tworzenia* do *działania*
+<!-- column_layout: [1, 1] -->
+<!-- column: 0 -->
+<!-- pause -->
+### GenAI
+* **Główna funkcja:** Tworzenie nowych treści (tekst, kod, obrazy, wideo)
+* **Tryb pracy:** Reaktywny (czeka na prompt/polecenie użytkownika)
+* **Interakcja:** Zazwyczaj krótka, jednoetapowa (Q&A)
+* **Autonomia:** Niska; wymaga ciągłego nadzoru człowieka
+* **Przykład:** Napisz e-mail, stwórz grafikę, podsumuj dokument
+* **Rola:** Narzędzie zwiększające produktywność
+<!-- column: 1 -->
+<!-- pause -->
+### Agentic AI
+* **Główna funkcja:** Podejmowanie działań i realizacja złożonych zadań
+* **Tryb pracy:** Proaktywny (działa samodzielnie po otrzymaniu celu)
+* **Interakcja:** Długotrwała, wieloetapowe planowanie i rozumowanie
+* **Autonomia:** Wysoka; podejmuje decyzje i koryguje działanie
+* **Przykład:** *Zaplanuj podróż służbową*, co oznacza: znalezienie lotu, rezerwację hotelu, wpisanie do kalendarza
+* **Rola:** Autonomiczny wykonawca procesów
+<!-- reset_layout -->
+<!-- pause -->
+> Google zmieniło nazwę serwisu Vertex AI na Gemini Enterprise Agent Platform by odzwierciedlić powyższe,
+> a AWS stworzył zupełnie nowy serwis Amazon Bedrock AgentCore do orkiestracji agentów.
+<!-- end_slide -->
 <!-- end_slide -->
 
 <!-- column_layout: [2, 2] -->
