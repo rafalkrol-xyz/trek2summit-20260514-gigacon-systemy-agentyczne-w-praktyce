@@ -86,6 +86,33 @@ theme:
 ![image:width:100%](./images/hbr_when_and_how_to_use_ai.png)
 
 <!-- end_slide -->
+
+# Kiedy warto, a kiedy to jest bez sensu
+
+![image:width:60%](./images/hbr_shortened.png)
+
+<!-- column_layout: [1, 1] -->
+<!-- column: 0 -->
+<!-- pause -->
+### Dobry kandydat
+- Zadanie **wieloetapowe**, wymaga decyzji
+- Dane są **dostępne i w miarę czyste**
+- Błąd jest **odwracalny** lub wykrywalny
+- **Setki/tysiące** przypadków dziennie
+- Człowiek robi to samo, tylko **wolniej i drożej** lub niechętnie
+- Wynik probabilistyczny jest akceptowalny, np. klasyfikacja zgłoszeń, podsumowania
+<!-- column: 1 -->
+<!-- pause -->
+### Zły kandydat
+- **Jednorazowe** zadanie o niskim poziomie skomplikowania
+- Dane **wrażliwe bez odpowiedniego nadzoru (governance)**
+- Błąd jest **katastrofalny i nieodwracalny**
+- Brak możliwości **ewaluacji jakości**
+- Wymagana **100% pewność** odpowiedzi
+- Bardzo niski wolumen (< kilkanaście zapytań/mc)
+- Wynik musi być deterministyczny, np. naliczanie podatku, dawkowanie leku
+
+<!-- end_slide -->
 <!-- end_slide -->
 
 <!-- column_layout: [2, 2] -->
