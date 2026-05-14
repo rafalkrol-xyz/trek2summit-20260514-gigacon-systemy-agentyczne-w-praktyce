@@ -148,6 +148,55 @@ theme:
 > Google zmieniło nazwę serwisu Vertex AI na Gemini Enterprise Agent Platform by odzwierciedlić powyższe,
 > a AWS stworzył zupełnie nowy serwis Amazon Bedrock AgentCore do orkiestracji agentów.
 <!-- end_slide -->
+
+# Miro – routing zgłoszeń od klientów końcowych (1/2)
+<!-- pause -->
+## Miro to internetowa platforma do wizualnej współpracy, która działa jak wirtualna, nieskończona tablica dla wielu zespołów.
+<!-- column_layout: [1, 1] -->
+<!-- column: 0 -->
+![image:width:100%](./images/miro_what_it_is.png)
+
+<!-- column: 1 -->
+<!-- pause -->
+**Problem:** zgłoszenia błędów w dużej organizacji inżynierskiej trafiały do niewłaściwych zespołów (jest ich prawie 100). Marnotrawienie czasu i powodowanie frustracji.
+<!-- pause -->
+
+<!-- reset_layout -->
+<!-- column_layout: [1, 1] -->
+<!-- column: 0 -->
+![image:width:100%](./images/miro_use_case.png)
+<!-- column: 1 -->
+**Rozwiązanie:**
+- **Amazon Bedrock** – klasyfikacja zgłoszeń na podstawie kontekstu
+- Integracja z wewnętrznym systemem bugtrackingu
+- Agent analizuje treść + metadane, decyduje do którego zespołu trafia issue
+
+1. Przesłanie raportu z opinią użytkownika (zgłoszenia błędu).
+2. Przetworzenie załączników multimedialnych.
+3. Wzbogacenie opinii użytkownika o kontekst.
+4. Skierowanie opinii użytkownika do odpowiedniego zespołu.
+5. Wygenerowanie analizy przyczyn źródłowych.
+6. Przekazanie wyników użytkownikowi do wglądu.
+<!-- pause -->
+
+<!-- end_slide -->
+
+# Miro – routing zgłoszeń od klientów końcowych (2/2)
+
+**Wyniki:**
+| Metryka | Wynik |
+|---------|-------|
+| Liczba tzw. reassignments między zespołami | **6× mniej** |
+| Czas do rozwiązania | **5× krótszy** (dni → godziny) |
+<!-- pause -->
+### Dlaczego ten casus jest ważny?
+- Nie jest to pilot czy demo, a produkcyjne wdrożenie w firmie o skali enterprise
+- Pokazuje, że często największa wartość bywa wewnątrz organizacji
+- Relatywnie *prosty use case* z jasnym, mierzalnym zwrotem z inwestycji
+
+> Źródło: https://aws.amazon.com/blogs/machine-learning/how-miro-uses-amazon-bedrock-to-boost-software-bug-routing-accuracy-and-improve-time-to-resolution-from-days-to-hours/
+
+<!-- end_slide -->
 <!-- end_slide -->
 
 <!-- column_layout: [2, 2] -->
