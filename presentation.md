@@ -221,6 +221,23 @@ theme:
 
 
 <!-- end_slide -->
+
+# Intelligent Documentation Agent
+
+![image:width:100%](./images/intelligent_documentation_agent_basis.png)
+
+<!-- end_slide -->
+
+# Co polecam na start?
+
++ skorzystanie z darmowych wersjei popularnych narzędzi: Kiro (IDE), Google AI studio, ElevenLabs?
++ obejrzenie innych sesji GigaCon
++ darmową rozmowę z nami
++ śledznie nas i mnie na LinkedInie
++ Claude Platform on AWS, jeśli już jesteście na AWSie
+
+![image:width:100%](./images/claude_platform.png)
+
 <!-- end_slide -->
 
 <!-- column_layout: [2, 2] -->
