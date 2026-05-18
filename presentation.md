@@ -23,7 +23,7 @@ theme:
 
 <!-- pause -->
 
-## Spejaliści chmurowi i nie tylko: AI, DevOps, Security, FinOps, Backup, Managed Services
+## Specjaliści chmurowi i nie tylko: AI, DevOps, Security, FinOps, Backup, Managed Services
 
 <!-- pause -->
 
@@ -169,7 +169,7 @@ theme:
 **Rozwiązanie:**
 - **Amazon Bedrock** – klasyfikacja zgłoszeń na podstawie kontekstu
 - Integracja z wewnętrznym systemem bugtrackingu
-- Agent analizuje treść + metadane, decyduje do którego zespołu trafia issue
+- Agent analizuje treść + metadane, decyduje, do którego zespołu trafia issue
 
 1. Przesłanie raportu z opinią użytkownika (zgłoszenia błędu).
 2. Przetworzenie załączników multimedialnych.
@@ -230,10 +230,10 @@ theme:
 
 # Co polecam na start?
 
-+ skorzystanie z darmowych wersjei popularnych narzędzi: Kiro (IDE), Google AI studio, ElevenLabs?
++ skorzystanie z darmowych wersji popularnych narzędzi: Kiro (IDE), Google AI Studio, ElevenLabs
 + obejrzenie innych sesji GigaCon
 + darmową rozmowę z nami
-+ śledznie nas i mnie na LinkedInie
++ śledzenie nas i mnie na LinkedInie
 + Claude Platform on AWS, jeśli już jesteście na AWSie
 
 ![image:width:100%](./images/claude_platform.png)
