@@ -3,6 +3,8 @@
 Materiały z prelekcji wygłoszonej przeze mnie ([Rafał Król](https://www.linkedin.com/in/rafal-krol))
 na konferencji [GigaCon AI & Business Analytics (14 maja 2026)](https://www.gigacon.org/ai-052026).
 
+**>>>[Nagranie dostępne na Youtube](https://youtu.be/JS6wQNqKT_M)<<<**
+
 ## 📋 Agenda
 
 1. Krótko o Trek2Summit i o mnie
